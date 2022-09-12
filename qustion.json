@@ -1,0 +1,90 @@
+[
+    {
+        "title":" Which is  Earth's solar system twin ?",
+        "answer_1":"Pluto",
+        "answer_2":"Neptune",
+        "answer_3":"Venus",
+        "answer_4":"Uranus",
+        "right_answer":"Venus"
+    },
+    {
+        
+        "title":" Which is   The solar system's Red Planet ?",
+        "answer_1":"Pluto",
+        "answer_2":"Neptune",
+        "answer_3":"Venus",
+        "answer_4":"Mars",
+        "right_answer":"Mars"
+    },
+    {
+        "title":" Which is  The largest planet in our solar system ?",
+        "answer_1":"Jupiter",
+        "answer_2":"Planet Nine",
+        "answer_3":"Neptune",
+        "answer_4":"Mars",
+        "right_answer":"Jupiter"
+    },
+    {
+        "title":" Which is  The ringed jewel of the solar system ?",
+        "answer_1":"Planet Nine",
+        "answer_2":"Jupiter",
+        "answer_3":"Uranus",
+        "answer_4":"Earth",
+        "right_answer":"Saturn"
+    },
+    {
+        "title":" Which is  The tilted, sideways planet in our solar system ?",
+        "answer_1":"Mars",
+        "answer_2":"Saturn",
+        "answer_3":"Uranus",
+        "answer_4":"Earth",
+        "right_answer":"Uranus"
+    },
+    {
+        "title":" Which is  A giant, stormy blue planet ?",
+        "answer_1":"Neptune",
+        "answer_2":"Earth",
+        "answer_3":"Venus",
+        "answer_4":"Jupiter",
+        "right_answer":"Neptune"
+    },
+    {
+        "title":" Which is  The closest planet to the sun ?",
+        "answer_1":"Pluto",
+        "answer_2":"Mars",
+        "answer_3":"Mercury",
+        "answer_4":"Earth",
+        "right_answer":"Mercury"
+    },
+    {
+        "title":" Which is  The closest planet to the sun ?",
+        "answer_1":"Pluto",
+        "answer_2":"Mars",
+        "answer_3":"Mercury",
+        "answer_4":"Earth",
+        "right_answer":"Mercury"
+    },
+    {
+        "title":"Which planet is covered largely by water ?",
+        "answer_1":"Juno ",
+        "answer_2":"Mars",
+        "answer_3":"Earth",
+        "answer_4":"Titan",
+        "right_answer":"Earth"
+    },
+    {
+        "title":" What is the name of the highest peak on Mars?",	
+        "answer_1":"Juno ",
+        "answer_2":"Olympus Mons",
+        "answer_3":"Pluto",
+        "answer_4":"Jupiter",
+        "right_answer":"Olympus Mons"
+        
+     }
+
+
+
+ 
+
+    
+]
